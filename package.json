@@ -1,0 +1,25 @@
+{
+  "name": "liri-node-appail.com",
+  "version": "1.0.0",
+  "description": "### Overview",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rashuzak/liri-node-appail.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rashuzak/liri-node-appail.com/issues"
+  },
+  "homepage": "https://github.com/rashuzak/liri-node-appail.com#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "moment": "^2.24.0"
+  }
+}
