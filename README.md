@@ -109,11 +109,10 @@
 
 *NOTE: To run this APP you will need to create .env file and get your own Spotify ID and Spotify Secret.
 
-----------------------------------
-# Spotify API Keys
+# Spotify API keys
 
-SPOTIFY_ID=YOUR SPOTIFY ID
-SPOTIFY_SECRET=YOUR SPOTIFY SECRET
-----------------------------------
+SPOTIFY_ID=your-spotify-id
+SPOTIFY_SECRET=your-spotify-secret
 
-LINK: A video showing how this APP works:
+
+LINK: A video showing how this APP works: https://drive.google.com/file/d/1nn1UgECsc5RwizBn7-VRbuPcO8AX9Wbq/view?usp=sharing
